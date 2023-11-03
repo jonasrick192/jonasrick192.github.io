@@ -1,11 +1,3 @@
-
-
-<html>
-
-
-
-
-
 <head>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Pay.Pal Customer Service</title>
@@ -98,9 +90,3 @@ If you are a Pay.Pal business user, you must have come across the Chat option. I
   <p class="footer">© 2023 Pay.Pal Inc. All rights reserved.</p>
 
 </body>
-
-
-
-
-
-</html>
